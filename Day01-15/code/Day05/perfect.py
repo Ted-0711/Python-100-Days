@@ -18,3 +18,5 @@ for num in range(1, 10000):
                 result += num // factor
     if result == num:
         print(num)
+
+#1不是完全数而运行结果中含1
